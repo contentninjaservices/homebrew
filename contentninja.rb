@@ -3,7 +3,7 @@ class Contentninja < Formula
   homepage "http://contentninja.services"
   url "https://github.com/contentninjaservices/contentninja/archive/master.zip"
   version "0.8.5"
-  sha256 "5351497e4b784999c5a5d287f5366537d8b1e5bc1394fdbc1dcd4b5e21f0f927"
+  sha256 "3c2e1bab71d38ef2656a6990892b42bb6e40719413073c94da0e1b81d9de9f99"
 
 
   def install
